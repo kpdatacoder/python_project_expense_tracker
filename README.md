@@ -1,6 +1,3 @@
-Here’s a `README.md` for your expense and savings tracker project:
-
-```markdown
 # Expense and Savings Tracker
 
 This is a simple GUI-based Python application that helps you track your daily income, expenses, and calculate savings. The app stores all data in a JSON file, allowing you to easily view and manage your financial logs.
