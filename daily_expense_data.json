@@ -1,0 +1,22 @@
+{
+    "income_log": [
+        {
+            "date": "2024-09-05",
+            "amount": 4000.0,
+            "description": "September"
+        }
+    ],
+    "expense_log": [
+        {
+            "date": "2024-09-05",
+            "amount": 0.0,
+            "description": "September"
+        }
+    ],
+    "savings_log": [
+        {
+            "date": "2024-09-05",
+            "total_savings": 4000.0
+        }
+    ]
+}
